@@ -1,0 +1,5 @@
+[info]
+title=Linter for Modelica, using MoParser
+desc=Linter for CudaLint, adds support for Modelica lexer, using MoParser
+type=cudatext-plugin
+subdir=cuda_lint_moparser
